@@ -138,6 +138,7 @@
 #define BTN_PIN                             PC10
 #define PS_ON_PIN                           PE11
 #define KILL_PIN                            PC5
+#define NEOPIXEL_PIN                        PB4
 
 #define SDSS                                PA2
 #define SD_DETECT_PIN                       PB0
